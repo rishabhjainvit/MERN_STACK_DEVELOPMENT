@@ -8,6 +8,8 @@ This project is focused on developing a strong backend using the MERN (MongoDB, 
 - **Express.js**: A web application framework for Node.js, designed for building APIs and web applications with minimal setup.
 - **MongoDB**: A NoSQL database that provides a flexible and scalable data storage solution for modern applications.
 - **JSON Web Tokens (JWT)**: Used for authentication and authorization, providing a secure way to transmit information between parties.
+-  **Postman**: Used for testing API endpoints during development to ensure functionality and correctness.
+ 
 
 ## Features
 
